@@ -1,5 +1,5 @@
 # catalyst
-Server (dev): cd server && npm run start:dev (port : 300) <br />
+Server (dev): cd server && npm run start:dev (port : 3000) <br />
 client: cd client && npm run start (port: 3001) <br />
 
 Server .env file <br />
